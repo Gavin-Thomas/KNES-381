@@ -1,7 +1,10 @@
 # <p align="center">This is my HTML file (Gavin Thomas - 30087597)</p>
-* <p align="left"><strong>Oooh</strong>, this is the assignment. <em>HTML is so cool</em></p>
-![cat](https://images.freeimages.com/images/previews/3b2/prague-conference-center-1056491.jpg)
+_**This is the assignment**_
 
-```diff
-+ This is a stroop test: Blue
+
+| Table Points | Purple Arrow | 
+| --------------- | --------------- | 
+| This is the Assignment. $${\color{red}RED}$$ This assignment is harder than I expected. <p>VO2<sub>max</sub></p> [Here is my readme github file](| ![Purple Arrow](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Smiley face emoji")
+. | [Contact Dr. J](mailto:rjholash@ucalgary.ca)
+
 
