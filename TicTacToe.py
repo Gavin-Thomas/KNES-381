@@ -204,4 +204,3 @@ while play_again == "Y":
 
   play_game()
 
-# (GAVIN - CAN'T PLACE X OR O ON THE SAME SPOT MORE THAN ONCE)
