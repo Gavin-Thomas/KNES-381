@@ -6,7 +6,7 @@
 | Table Data | Purple Arrow | 
 | --------------- | --------------- | 
 | This is the Assignment. This assignment is harder than I expected. <p>I will display v&#775;o<sub>2max</sub></p> | ![Purple Arrow](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Smiley face emoji")
-CLICK ON IMAGE (local hyperlink) --> ![hyperlink](images/icon48.png) | [Contact Dr. J](mailto:rjholash@ucalgary.ca) | 
+CLICK ON IMAGE (local hyperlink) --> ![hyperlink](images/arrow.png) | [Contact Dr. J](mailto:rjholash@ucalgary.ca) | 
 
 [Here is my readme github file](Readme.md)
 ``` diff
