@@ -9,11 +9,17 @@
   
   Small disclaimer: I am a complete beginner and am in no stretch of the imagination technically proficient in machine learning or data science (yet). However, through many hours of banging my head against my keyboard, I have actually figured out a few things and have found this process of applying code to real-world problems to be very fruitful.
   
-#### Table of Contents  
-[Headers](### Project Background)
-[Header
+### Project Background & Preparation
   
-### Project Background
-  
-  As 
 
+  
+### The Dataset
+1. Citation
+
+### Data Cleaning
+
+### Data Analysis
+
+### Random Forest Model
+
+##### Limitations of Model
