@@ -12,7 +12,7 @@
 ### Project Background & Preparation
   
 ### The Dataset
-1. Citation
+1. Canadian Institute for Health Information. _Wait Times for Priority Procedures in Canada — Data Tables._ Ottawa, ON: CIHI; 2022.
 
 ### Data Cleaning
 
