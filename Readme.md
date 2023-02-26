@@ -16,8 +16,10 @@
 
 ### Data Cleaning
 
-### Data Analysis
+### Data Analysis and Insights
 
-### Random Forest Model
+### Predictive Model (Random Forest Regressor)
 
-##### Limitations of the Model
+### Limitations of the Model
+
+
